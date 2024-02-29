@@ -16,6 +16,10 @@
 - [APP&DB-SERVER](https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER)
 - [NGINX-PROXY-SERVER](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER)
 
+## - KANBAN BOARD
+
+## - WBS
+
 ## - STRUCTURE
 ![image](https://github.com/miniproject4-team4/main/assets/148880521/e042a2de-b609-426b-9611-4f4b4a12ea6d)
 
