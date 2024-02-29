@@ -17,6 +17,7 @@
 - [NGINX-PROXY-SERVER](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER)
 
 ## - KANBAN BOARD
+https://github.com/orgs/miniproject4-team4/projects/3
 
 ## - WBS
 https://docs.google.com/spreadsheets/d/1vYhjhAhRoFE6Hz9ik-OQZEl94MDp7P8yjClDH0XVsPo/edit#gid=0
