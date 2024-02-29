@@ -18,5 +18,4 @@
 
 ## - PERFORMANCE TEST SCENARIO
 - [SCENARIO PLANNING & OVERVIEW](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/5)
-
-- 
+- [1차 성능 테스트](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/3)
