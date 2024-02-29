@@ -16,6 +16,10 @@
 - [APP&DB-SERVER](https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER)
 - [NGINX-PROXY-SERVER](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER)
 
+## - STRUCTURE
+![image](https://github.com/miniproject4-team4/main/assets/148880521/e042a2de-b609-426b-9611-4f4b4a12ea6d)
+
+
 ## - PERFORMANCE TEST SCENARIO
 - [SCENARIO PLANNING & OVERVIEW](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/5)
 - [1차 성능 테스트](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/3) - ngrinder가 잘 작동하는지 확인
