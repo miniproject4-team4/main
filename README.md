@@ -18,5 +18,5 @@
 
 ## - PERFORMANCE TEST SCENARIO
 - [SCENARIO PLANNING & OVERVIEW](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/5)
-- [1차 성능 테스트](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/3)
-- [2차 성능 테스트](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/7)
+- [1차 성능 테스트](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/3) - ngrinder가 잘 작동하는가
+- [2차 성능 테스트](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER/issues/7) - 캐싱을 적용하기전 현 시스템의 최대 tps와 user 찾기
