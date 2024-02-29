@@ -15,3 +15,5 @@
 ## - REPOSITORIES
 - [APP&DB-SERVER](https://github.com/miniproject4-team4/SPRING-BOOT-APP-SERVER)
 - [NGINX-PROXY-SERVER](https://github.com/miniproject4-team4/NGINX-PROXY-SERVER)
+
+## - PERFORMANCE TEST SCENARIO
